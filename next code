@@ -1,0 +1,6 @@
+# check Even or Odd number
+num = int(input("enter a number:"))
+if num % 2 ==0:
+printf("The number is Even")
+else:
+printf("The number is Odd")
